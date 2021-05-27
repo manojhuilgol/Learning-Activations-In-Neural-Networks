@@ -24,17 +24,17 @@ case_2: {"mean:-2", "std_dev":1}
 
 ## file descriptions:
 
-- The [main.py](https://github.com/manojhuilgol/Learning-Activations-In-Neural-Networks/main.py) provides needs to be run which contains the dataset preprocessing and experiment specifications.
+- The [main.py](https://github.com/manojhuilgol/Learning-Activations-In-Neural-Networks/blob/main/main.py) provides needs to be run which contains the dataset preprocessing and experiment specifications.
 
-- The [neuralnetwork.py](https://github.com/manojhuilgol/Learning-Activations-In-Neural-Networks/neuralnetwork.py) contains the implementation of Multilayer Perceptron.
+- The [neuralnetwork.py](https://github.com/manojhuilgol/Learning-Activations-In-Neural-Networks/blob/main/neuralnetwork.py) contains the implementation of Multilayer Perceptron.
 
-- The [utils.py](https://github.com/manojhuilgol/Learning-Activations-In-Neural-Networks/utils.py) is provided with common methods/functions used during the training process.
+- The [utils.py](https://github.com/manojhuilgol/Learning-Activations-In-Neural-Networks/blob/main/utils.py) is provided with common methods/functions used during the training process.
  
-- The [utils.py](https://github.com/manojhuilgol/Learning-Activations-In-Neural-Networks/visualize_results.ipynb) contains the Jupyter Notebook with the plots of the results and visualization for all the experiments.
+- The [utils.py](https://github.com/manojhuilgol/Learning-Activations-In-Neural-Networks/blob/main/visualize_results.ipynb) contains the Jupyter Notebook with the plots of the results and visualization for all the experiments.
 
 
 ## Results:
-The results with the trained metrics are saved in the [results](https://github.com/manojhuilgol/Learning-Activations-In-Neural-Networks/results) folder.
+The results with the trained metrics are saved in the [results](https://github.com/manojhuilgol/Learning-Activations-In-Neural-Networks/blob/main/results) folder.
 
 
 ## Contact:
