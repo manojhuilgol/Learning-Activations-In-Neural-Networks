@@ -3,9 +3,9 @@
 ## Data:
 
 Three datasets are used for running the experiments:
-- MNIST dataset 
-- IRIS
-- Bank Note
+- **MNIST dataset**
+- **IRIS**
+- **Bank Note**
 
 All the datasets are downloaded from the URL link available online automatically when running the main() method.
 
@@ -30,7 +30,7 @@ case_2: {"mean:-2", "std_dev":1}
 
 - The [utils.py](https://github.com/manojhuilgol/Learning-Activations-In-Neural-Networks/blob/main/utils.py) is provided with common methods/functions used during the training process.
  
-- The [utils.py](https://github.com/manojhuilgol/Learning-Activations-In-Neural-Networks/blob/main/visualize_results.ipynb) contains the Jupyter Notebook with the plots of the results and visualization for all the experiments.
+- The [visualize_results.py](https://github.com/manojhuilgol/Learning-Activations-In-Neural-Networks/blob/main/visualize_results.ipynb) contains the Jupyter Notebook with the plots of the results and visualization for all the experiments.
 
 
 ## Results:
