@@ -22,7 +22,7 @@ case_1: {"mean:1", "std_dev":0.5}
 case_2: {"mean:-2", "std_dev":1}
 ```
 
-## file descriptions:
+## File specifications:
 
 - The [main.py](https://github.com/manojhuilgol/Learning-Activations-In-Neural-Networks/blob/main/main.py) provides needs to be run which contains the dataset preprocessing and experiment specifications.
 
