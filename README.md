@@ -18,8 +18,8 @@ hyperparams: input_dims, hidden_dims, output_dims, lr_rate, epochs.
 
 The two cases as mentioned in the report can be used with the below specifications to replicate the results as in the report:
 ```
-case_1: {"mean:1", "std_dev":0.5}
-case_2: {"mean:-2", "std_dev":1}
+case_1: {"mean":1, "std_dev":0.5}
+case_2: {"mean":-2, "std_dev":1}
 ```
 
 ## File specifications:
